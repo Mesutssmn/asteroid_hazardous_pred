@@ -1,5 +1,4 @@
-# Asteroid Hazard Classification Using Neural Networks
-
+# Asteroid Hazard Classification
 This project aims to classify potentially hazardous asteroids (PHA) using a neural network model trained on a dataset provided by NASA’s Jet Propulsion Laboratory (JPL). The dataset includes physical and orbital characteristics of asteroids, and the task focuses on addressing class imbalance by applying SMOTE to improve detection of hazardous asteroids.
 
 ---
